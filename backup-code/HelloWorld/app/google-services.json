@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "901979771079",
+    "firebase_url": "https://jaldemo-12405.firebaseio.com",
+    "project_id": "jaldemo-12405",
+    "storage_bucket": "jaldemo-12405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901979771079:android:2afc2cbb2b4b3171",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901979771079-sdegk6n4iksae8kpg3odp73df9cg5gb7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.helloworld",
+            "certificate_hash": "cac1adfd762c8f9c61191eca9e8975f8d812d0e0"
+          }
+        },
+        {
+          "client_id": "901979771079-ioqm9klvnsuomscfcola3pb315vfde79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCbxoSjd6jk1Uz6CxWu8I7S0A0bGqaxPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901979771079-ioqm9klvnsuomscfcola3pb315vfde79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
